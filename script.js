@@ -4,9 +4,9 @@ const modal = document.querySelector('.modal');
 
 const overlay = document.querySelector('.overlay');
 
-const btnCloseModal = document.querySelector('.close-modal');
-
 const btnsShowModal = document.querySelectorAll('.show-modal');
+
+const btnCloseModal = document.querySelector('.close-modal');
 
 const showModal = function () {
   modal.classList.remove('hidden');
