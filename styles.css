@@ -16,7 +16,7 @@ body {
   height: 100vh;
   position: relative;
   display: flex;
-  align-self: flex-start;
+  align-items: flex-start;
   justify-content: center;
   background: linear-gradient(to left, #2883b4, #c5e7e2);
 }
