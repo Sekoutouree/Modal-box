@@ -32,3 +32,14 @@ body {
   color: rgb(34, 30, 30);
   cursor: pointer;
 }
+
+.close-modal {
+  position: absolute;
+  top: 1.2rem;
+  right: 2rem;
+  font-size: 5rem;
+  color: rgb(34, 30, 30);
+  cursor: pointer;
+  border: none;
+  background: none;
+}
